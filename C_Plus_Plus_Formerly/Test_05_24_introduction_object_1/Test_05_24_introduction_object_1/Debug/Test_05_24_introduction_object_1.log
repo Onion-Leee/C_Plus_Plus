@@ -1,0 +1,8 @@
+﻿  Test.cpp
+C:\Users\13279\Documents\Go fot it\C++\C++_CODE\Test_05_24_introduction_object_1\Test_05_24_introduction_object_1\Test.cpp(19,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\13279\Documents\Go fot it\C++\C++_CODE\Test_05_24_introduction_object_1\Test_05_24_introduction_object_1\Test.cpp(24,4): error C2248: “Test1::a”: 无法访问 private 成员(在“Test1”类中声明)
+C:\Users\13279\Documents\Go fot it\C++\C++_CODE\Test_05_24_introduction_object_1\Test_05_24_introduction_object_1\Test.cpp(13): message : 参见“Test1::a”的声明
+C:\Users\13279\Documents\Go fot it\C++\C++_CODE\Test_05_24_introduction_object_1\Test_05_24_introduction_object_1\Test.cpp(10): message : 参见“Test1”的声明
+C:\Users\13279\Documents\Go fot it\C++\C++_CODE\Test_05_24_introduction_object_1\Test_05_24_introduction_object_1\Test.cpp(25,4): error C2248: “Test1::c”: 无法访问 private 成员(在“Test1”类中声明)
+C:\Users\13279\Documents\Go fot it\C++\C++_CODE\Test_05_24_introduction_object_1\Test_05_24_introduction_object_1\Test.cpp(15): message : 参见“Test1::c”的声明
+C:\Users\13279\Documents\Go fot it\C++\C++_CODE\Test_05_24_introduction_object_1\Test_05_24_introduction_object_1\Test.cpp(10): message : 参见“Test1”的声明

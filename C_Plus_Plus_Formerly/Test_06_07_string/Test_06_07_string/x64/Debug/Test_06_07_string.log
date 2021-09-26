@@ -1,0 +1,5 @@
+﻿  Test.cpp
+C:\Users\13279\Documents\Go fot it\C++\C_Plus_Plus_CODE\Test_06_07_string\Test_06_07_string\Test.cpp(9,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\13279\Documents\Go fot it\C++\C_Plus_Plus_CODE\Test_06_07_string\Test_06_07_string\Test.cpp(41,14): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\13279\Documents\Go fot it\C++\C_Plus_Plus_CODE\Test_06_07_string\Test_06_07_string\Test.cpp(45,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Test_06_07_string.vcxproj -> C:\Users\13279\Documents\Go fot it\C++\C_Plus_Plus_CODE\Test_06_07_string\x64\Debug\Test_06_07_string.exe

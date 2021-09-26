@@ -1,0 +1,3 @@
+﻿  Work.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+C:\Users\13279\Documents\Go fot it\C++\C_Plus_Plus_CODE\Work_06_01_PrintDate\Debug\Work_06_01_PrintDate.exe : fatal error LNK1120: 1 个无法解析的外部命令
